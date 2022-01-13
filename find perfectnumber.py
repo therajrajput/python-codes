@@ -1,4 +1,4 @@
-#pthone pogramto chekt any perft number or not:
+#pthone program cheak any perfet number or not:
 num=int(input("enter any number"))   
 sum=0
 i=1
